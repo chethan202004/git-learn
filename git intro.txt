@@ -1,0 +1,4 @@
+git init
+git status - to check all the checked and unchecked files in the folder
+git add - staging area to add file 
+git commit -m "message"
